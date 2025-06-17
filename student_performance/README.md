@@ -2,7 +2,7 @@
 Phân tích dữ liệu điểm số học sinh dựa trên nhiều yếu tố như thời gian học để tìm ra các yếu tố ảnh hưởng đến kết quả học tập.
 
 ## Nội dung dự án
-- 'data/student-mat.csv' : Dữ liệu gốc (raw data) từ UCI Machine Learing Repositoty
+- `data/student-mat.csv`: Dữ liệu gốc (raw data) từ UCI Machine Learning Repository
 - `notebook/student-performance-analysis.ipynb`: Phân tích và trực quan hóa dữ liệu bằng Python (Pandas, Seaborn, Matplotlib)
 - `report/student-performance-report.docx`: Báo cáo tổng hợp các biểu đồ và nhận xét bằng ngôn ngữ tự nhiên
 
