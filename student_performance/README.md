@@ -20,7 +20,7 @@ Phân tích dữ liệu điểm số học sinh dựa trên nhiều yếu tố n
 - Visual Studio Code
 
 ## Báo cáo
-> Xem báo tại 'report/3122411211_Lê-Duy-Tín_DCT122C3_PTDL_2024-2025_TL.docx'
+> Xem báo tại `report/3122411211_Lê-Duy-Tín_DCT122C3_PTDL_2024-2025_TL.docx`
 
 ## Ghi chú
 - Dữ liệu được sử dụng với mục đích học tập
